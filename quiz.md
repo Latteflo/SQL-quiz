@@ -1,4 +1,4 @@
-`# SQL questionnaire
+# SQL questionnaire
 
 ## Setup
 
